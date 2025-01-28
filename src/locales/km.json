@@ -1,0 +1,98 @@
+{
+  "lms": "ប្រព័ន្ធគ្រប់គ្រងការសិក្សា",
+  "btn": {
+    "filter": "ស្វែងរក",
+    "create": "បង្កើត",
+    "edit": "កែសម្រួល",
+    "details": "លំអិត",
+    "delete": "លុប",
+    "save": "រក្សាទុក",
+    "saveChange": "រក្សាទុកការផ្លាស់ប្តូរ",
+    "submit": "ដាក់ស្នើ",
+    "cancel": "បោះបង់",
+    "view": "មើល",
+    "update": "ធ្វើបច្ចុប្បន្នភាព",
+    "yes": "យល់ព្រម",
+    "tracking": "តាមដាន",
+    "login": "ចូល"
+  },
+  "lang": {
+    "en": "អង់គ្លេស",
+    "km": "ខ្មែរ"
+  },
+  "mainMenu": {
+    "dashboard": "ផ្ទាំងគ្រប់គ្រង",
+    "classroom": "ថ្នាក់រៀន",
+    "student": "សិស្ស",
+    "teacher": "គ្រូបង្រៀន",
+    "course": "មុខវិជ្ជា",
+    "exam": "ការប្រឡង",
+    "attendance": "វត្តមាន",
+    "progress": "ការអភិវឌ្ឍ",
+    "reports": "របាយការណ៍",
+    "score": "ពិន្ទុ",
+    "trush": "ធុងសម្រាម",
+    "accessLog": "ការដានការចូលប្រើ"
+  },
+  "navigation": {
+    "user": "អ្នកប្រើប្រាស់",
+    "manageStudents": "គ្រប់គ្រងសិស្ស",
+    "manageTeachers": "គ្រប់គ្រងគ្រូ",
+    "manageCourses": "គ្រប់គ្រងមុខវិជ្ជា",
+    "manageExams": "គ្រប់គ្រងប្រឡង",
+    "attendanceTracking": "តាមដានវត្តមាន",
+    "performanceReports": "របាយការណ៍លទ្ធផល",
+    "settings": "ការកំណត់",
+    "userTracking": "ការដានការចូលប្រើ",
+    "record": "កំណត់ត្រាវត្តមាន",
+    "score": "កំណត់ត្រាពិន្ទុ",
+    "logout": "ចាកចេញ",
+    "security": "សុវត្តិភាព",
+    "profile": "ប្រវត្តិរូប"
+  },
+  "messages": {
+    "success": "សកម្មភាពជោគជ័យ",
+    "error": "មានកំហុស",
+    "deleteConfirmation": "តើអ្នកប្រាកដជាចង់លុបមែនទេ?",
+    "updateSuccess": "ធ្វើបច្ចុប្បន្នភាពបានជោគជ័យ",
+    "saveSuccess": "រក្សាទុកបានជោគជ័យ"
+  },
+  "dashboard": {
+    "teacher": "គ្រូបង្រៀន",
+    "student": "សិស្ស",
+    "classroom": "ថ្នាក់រៀន"
+  },
+  "table": {
+    "firstName": "នាមខ្លួន",
+    "lastName": "នាមត្រកូល",
+    "email": "អ៊ីមែល",
+    "profile": "ប្រវត្តិរូប",
+    "status": "ស្ថានភាព",
+    "picture": "រូបភាព",
+    "className": "ឈ្មោះថ្នាក់រៀន",
+    "date": "កាលបរិច្ឆេទ",
+    "courseName": "មុខវិជ្ជា",
+    "gender":"ភេទ"
+  },
+  "common": {
+    "wellcomBack": "សូមស្វាគមន៍ការត្រឡប់មកវិញ",
+    "firstName": "នាមខ្លួន",
+    "lastName": "នាមត្រកូល",
+    "email": "អ៊ីមែល",
+    "address": "អាស័យដ្ឋាន",
+    "phoneNumer": "លេខទូរស័ព្ទ",
+    "gender": "ភេទ",
+    "dateOfBirth": "ថ្ងៃខែឆ្នាំកំណើត",
+    "password": "លេខសម្ងាត់",
+    "forgetPass": "ភ្លេចលេខសម្ងាត់សម្រាប់ចូល?",
+    "userDeleted":"ប្រវត្តិការលុបគណនីអ្នកប្រើប្រាស់",
+    "manageCourse":"ការគ្រប់គ្រងមុខវិជ្ចា",
+    "manageClassroom":"ការគ្រប់គ្រងថ្នាក់រៀន",
+    "studentEn":"ការចុះឈ្មោះសិស្ស",
+    "teacherEn":"ការចុះឈ្មោះគ្រូបង្រៀន",
+    "createClassroom":"បង្កើតថ្នាក់រៀន"
+  },
+  "alert":{
+    "successChange": "បានផ្លាស់ប្តូរពាក្យសម្ងាត់ដោយជោគជ័យ"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "lms": "Learning Management System",
+  "btn": {
+    "filter": "Search",
+    "create": "Create",
+    "edit": "Edit",
+    "details": "Details",
+    "delete": "Delete",
+    "save": "Save",
+    "saveChange": "Save Change",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "view": "View",
+    "update": "Update",
+    "yes": "Yes",
+    "tracking": "Tracking",
+    "login": "Login"
+  },
+  "lang": {
+    "en": "English",
+    "km": "Khmer"
+  },
+  "mainMenu": {
+    "dashboard": "Dashboard",
+    "classroom": "Classroom",
+    "student": "Students",
+    "teacher": "Teachers",
+    "course": "Courses",
+    "exam": "Exams",
+    "attendance": "Attendance",
+    "progress": "Progress",
+    "reports": "Reports",
+    "grade": "Grade",
+    "score": "Score",
+    "trush": "Trush",
+    "accessLog": "Access History"
+  },
+  "navigation": {
+    "user": "User",
+    "manageStudents": "Manage Students",
+    "manageTeachers": "Manage Teachers",
+    "manageCourses": "Manage Courses",
+    "manageExams": "Manage Exams",
+    "attendanceTracking": "Attendance",
+    "performanceReports": "Performance Reports",
+    "settings": "Settings",
+    "userTracking": "User Access Tracker",
+    "record": "Attendance Record",
+    "score": "Score Record",
+    "logout": "Logout",
+    "security": "Security",
+    "profile": "Profile"
+  },
+  "messages": {
+    "loginSuccess": "Login successful",
+    "error": "An error occurred",
+    "deleteConfirmation": "Are you sure you want to delete?",
+    "updateSuccess": "Update successful",
+    "saveSuccess": "Saved successfully"
+  },
+  "dashboard": {
+    "teacher": "TEACHERS",
+    "student": "STUDENTS",
+    "classroom": "CLASSROOM"
+  },
+  "table": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "profile": "Profile",
+    "status": "Status",
+    "picture": "picture",
+    "className": "classroom name",
+    "date": "Date",
+    "courseName": "Course Name",
+    "gender":"gender"
+  },
+  "common": {
+    "wellcomBack": "Wellcom back",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "address": "Address",
+    "phoneNumer": "Phone Numer",
+    "gender": "Gender",
+    "dateOfBirth": "Date of Birth",
+    "password": "Password",
+    "forgetPass": "Forget Login Password?",
+    "userDeleted":"User Account Removal History",
+    "manageCourse":"Course Management",
+    "manageClassroom":"Classroom Management",
+    "studentEn":"Student Enrollment",
+    "teacherEn":"Teacher Enrollment",
+    "createClassroom":"Create Classroom",
+    "myProfileInformation":"My Profile Information"
+  },
+  "alert":{
+    "successChange": "Password changed successfully"
+  }
+}
